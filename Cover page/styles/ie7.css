@@ -1,0 +1,16 @@
+.cover-page {
+    display: inline;
+    top: 0;
+}
+
+.mid-cover {
+    display: inline;
+    top: 50%;
+    position: relative;
+}
+
+.internal {
+    display: inline;
+    top: -50%;
+    position: relative;
+}

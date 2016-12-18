@@ -1,0 +1,26 @@
+.jumbotron {
+  height: 400px;
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+}
+
+a {color: grey}
+a:hover {color:dimgray; text-decoration: none}
+.footer {
+  background-color: #2a2b2b;
+  color: lightgray;
+  height: auto;
+  padding:40px;
+}
+
+.section-c {
+  padding:50px;
+  text-align: center;
+}
+.section-c .col-md-2 {
+  line-height: 75px
+}
+.section-c div {
+  display: inline-block;
+}

@@ -1,0 +1,31 @@
+@media (max-width: 800px) {
+	body {
+		background-color: white;
+	}
+	
+	.sidebar {
+		padding: 40px;
+	}
+}
+
+body {
+	background-color: lightgrey
+}
+
+.page {padding:30px;}
+
+.body {
+	font-size: 20px;
+	background-color: white;
+}
+
+.sidebar {
+	background-color: white;
+}
+
+.media-square {
+	width: 64px;
+	height: 64px;
+	background-color: darkgrey;
+	
+}
